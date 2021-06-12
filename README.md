@@ -1,5 +1,5 @@
 # Burnout-Rally
-## Save the Boat
+## Fun Game. Save the Boat
 
 - configure openGL in C++/VsCode
 - Create project
